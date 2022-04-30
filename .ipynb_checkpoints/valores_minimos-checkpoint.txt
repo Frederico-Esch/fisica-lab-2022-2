@@ -1,0 +1,4 @@
+Detector de dilatação: 0.01mm
+Régua: 1mm
+Termômetro: 1°C
+Cronometro: 0.01s
